@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anandu Sreekumar</h1>
 <h3 align="center">AI and Full-Stack Developer from India, currently residing in Brussels, Belgium.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandu-s-kumar" alt="anandu-s-kumar" /></a> </p>
+
 
 - 🔭 I’m currently working on **creating agentic models using Google ADK**
 
